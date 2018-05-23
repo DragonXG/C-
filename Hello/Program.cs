@@ -11,7 +11,7 @@ namespace Hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello!");
-            Console.WriteLine("you are good!")
+            Console.WriteLine("you are good!");
             Console.ReadLine();
         }
     }

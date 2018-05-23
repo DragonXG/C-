@@ -4,3 +4,6 @@ H:\C#作业\Hello\Hello\bin\Debug\Hello.pdb
 H:\C#作业\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
 H:\C#作业\Hello\Hello\obj\Debug\Hello.exe
 H:\C#作业\Hello\Hello\obj\Debug\Hello.pdb
+G:\C#作业\Hello\C-\Hello\bin\Debug\Hello.exe.config
+G:\C#作业\Hello\C-\Hello\obj\Debug\Hello.exe
+G:\C#作业\Hello\C-\Hello\obj\Debug\Hello.pdb
